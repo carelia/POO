@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaYPerimetro", "..\..\..\Desktop\Carelia Abigail Patiño Hernandez\AreaYPerimetro\AreaYPerimetro\AreaYPerimetro.csproj", "{418F276E-27DA-4D4F-B603-43B828BC07C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autopista", "..\..\..\Desktop\Carelia Abigail Patiño Hernandez\Autopista\Autopista\Autopista.csproj", "{C07EEAE2-F06C-4E75-A6B2-AF5ED4082F0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraDePromedios", "..\..\..\Desktop\Carelia Abigail Patiño Hernandez\CalculadoraDePromedios\CalculadoraDePromedios\CalculadoraDePromedios.csproj", "{09F4B3E0-8E3E-4CC9-94F2-7FF07CF7E4A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlPersonas", "..\..\..\Desktop\Carelia Abigail Patiño Hernandez\ControlPersonas\ControlPersonas\ControlPersonas.csproj", "{9383A1F5-134E-41C2-8365-D45C2DB195F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertidorDeGrados", "..\..\..\Desktop\Carelia Abigail Patiño Hernandez\ConvertidorDeGrados\ConvertidorDeGrados\ConvertidorDeGrados.csproj", "{B1D6A595-E739-4BC0-A487-6ACFF94484F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comision", "..\..\..\Desktop\Carelia Abigail Patiño Hernandez\Electricidad\Electricidad\Comision.csproj", "{F489AA91-9DB1-4A6E-8B21-250E82767130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Embotelladora", "..\..\..\Desktop\Carelia Abigail Patiño Hernandez\Embotelladora\Embotelladora.csproj", "{74812F1B-0E20-40D5-84E3-C2C668455557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FechaNacimiento", "..\..\..\Desktop\Carelia Abigail Patiño Hernandez\FechaNacimiento\FechaNacimiento\FechaNacimiento.csproj", "{789B8A75-799E-4F98-AE1C-EF8089DB4438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacaciones", "..\..\..\Desktop\Carelia Abigail Patiño Hernandez\Vacaciones\Vacaciones\Vacaciones.csproj", "{E93612E4-565A-4C47-9E6D-6DCCFFCDFFDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418F276E-27DA-4D4F-B603-43B828BC07C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418F276E-27DA-4D4F-B603-43B828BC07C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418F276E-27DA-4D4F-B603-43B828BC07C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418F276E-27DA-4D4F-B603-43B828BC07C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07EEAE2-F06C-4E75-A6B2-AF5ED4082F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07EEAE2-F06C-4E75-A6B2-AF5ED4082F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07EEAE2-F06C-4E75-A6B2-AF5ED4082F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07EEAE2-F06C-4E75-A6B2-AF5ED4082F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F4B3E0-8E3E-4CC9-94F2-7FF07CF7E4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F4B3E0-8E3E-4CC9-94F2-7FF07CF7E4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F4B3E0-8E3E-4CC9-94F2-7FF07CF7E4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F4B3E0-8E3E-4CC9-94F2-7FF07CF7E4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9383A1F5-134E-41C2-8365-D45C2DB195F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9383A1F5-134E-41C2-8365-D45C2DB195F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9383A1F5-134E-41C2-8365-D45C2DB195F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9383A1F5-134E-41C2-8365-D45C2DB195F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D6A595-E739-4BC0-A487-6ACFF94484F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D6A595-E739-4BC0-A487-6ACFF94484F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D6A595-E739-4BC0-A487-6ACFF94484F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D6A595-E739-4BC0-A487-6ACFF94484F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F489AA91-9DB1-4A6E-8B21-250E82767130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F489AA91-9DB1-4A6E-8B21-250E82767130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F489AA91-9DB1-4A6E-8B21-250E82767130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F489AA91-9DB1-4A6E-8B21-250E82767130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74812F1B-0E20-40D5-84E3-C2C668455557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74812F1B-0E20-40D5-84E3-C2C668455557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74812F1B-0E20-40D5-84E3-C2C668455557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74812F1B-0E20-40D5-84E3-C2C668455557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789B8A75-799E-4F98-AE1C-EF8089DB4438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789B8A75-799E-4F98-AE1C-EF8089DB4438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789B8A75-799E-4F98-AE1C-EF8089DB4438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789B8A75-799E-4F98-AE1C-EF8089DB4438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93612E4-565A-4C47-9E6D-6DCCFFCDFFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93612E4-565A-4C47-9E6D-6DCCFFCDFFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93612E4-565A-4C47-9E6D-6DCCFFCDFFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93612E4-565A-4C47-9E6D-6DCCFFCDFFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF6D678E-2AED-4F8F-8F9D-0436101F9BA1}
+	EndGlobalSection
+EndGlobal
